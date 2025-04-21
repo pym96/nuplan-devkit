@@ -1,0 +1,9 @@
+# This is for my another macbook bash setting.
+# 在.bashrc文件中写入
+export PYTHONPATH="${PYTHONPATH}:$HOME/Documents/DeepBlue-Decision/nuplan-devkit"
+
+export NUPLAN_EXP_ROOT="/Users/panyiming/Documents/DeepBlue-Decision/nuplan-devkit/nuplan/exp"
+export NUPLAN_DATA_ROOT="/Users/panyiming/Documents/DeepBlue-Decision/nuplan-devkit/nuplan/dataset"
+export NUPLAN_MAPS_ROOT="/Users/panyiming/Documents/DeepBlue-Decision/nuplan-devkit/nuplan/dataset/maps"
+export NUPLAN_DB_FILES="/Users/panyiming/Documents/DeepBlue-Decision/nuplan-devkit/nuplan/dataset/nuplan-v1.1/splits/mini"
+
