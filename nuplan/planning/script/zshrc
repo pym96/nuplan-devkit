@@ -1,0 +1,6 @@
+# 在.bashrc文件中写入
+export PYTHONPATH="${PYTHONPATH}:$HOME/Documents/code/nuplan-devkit"
+
+export NUPLAN_DATA_ROOT="/Users/panyiming/Documents/code/nuplan-devkit/nuplan/data/sets"
+export NUPLAN_MAPS_ROOT="/Users/panyiming/Documents/code/nuplan-devkit/nuplan/data/sets/nuplan-maps-v1.0/maps"
+export NUPLAN_DB_FILES="/Users/panyiming/Documents/code/nuplan-devkit/nuplan/data/sets/nuplan-v1.1/splits/mini"
